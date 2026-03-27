@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Vida Loca",
+  "base_artist": "CA7RIEL & Paco Amoroso",
+  "createdAt": "2026-03-27T01:30:36.173698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mi Vida Loca",
+      "artist": "Pam Tillis",
+      "has_synced": true,
+      "path": "select/01_Mi_Vida_Loca_Pam_Tillis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mi Vida Loca (my Crazy Life)",
+      "artist": "Pam Tillis",
+      "has_synced": false,
+      "path": "select/02_Mi_Vida_Loca_(my_Crazy_Life)_Pam_Tillis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Vida Loca",
+      "artist": "M People",
+      "has_synced": true,
+      "path": "select/03_La_Vida_Loca_M_People.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Livin' la Vida Loca",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/04_Livin'_la_Vida_Loca_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VIDA LOCA",
+      "artist": "Black Eyed Peas feat. Nicky Jam & Tyga",
+      "has_synced": true,
+      "path": "select/05_VIDA_LOCA_Black_Eyed_Peas_feat._Nicky_Jam_&_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VIDA LOCA",
+      "artist": "Black Eyed Peas, Nicky Jam & Tyga",
+      "has_synced": true,
+      "path": "select/06_VIDA_LOCA_Black_Eyed_Peas,_Nicky_Jam_&_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Livin' La Vida Loca",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/07_Livin'_La_Vida_Loca_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Livin' la vida loca (Original)",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/08_Livin'_la_vida_loca_(Original)_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Livin' La Vida Loca (Pablo Flores English Radio Edit)",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/09_Livin'_La_Vida_Loca_(Pablo_Flores_English_Radio_Edit)_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Livin' la vida loca (Pablo Flores English radio mix)",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/10_Livin'_la_vida_loca_(Pablo_Flores_English_radio_mix)_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Livin' La Vida Loca - Pablo Flores Spanish Radio Edit",
+      "artist": "Ricky Martin",
+      "has_synced": false,
+      "path": "select/11_Livin'_La_Vida_Loca_-_Pablo_Flores_Spanish_Radio_Edit_Ricky_Martin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Livin' la vida loca (Pablo Flores Spanish radio edit)",
+      "artist": "Ricky Martin",
+      "has_synced": false,
+      "path": "select/12_Livin'_la_vida_loca_(Pablo_Flores_Spanish_radio_edit)_Ricky_Martin.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Livin' La Vida Loca - Scissorhands English Radio Mix",
+      "artist": "Ricky Martin",
+      "has_synced": false,
+      "path": "select/13_Livin'_La_Vida_Loca_-_Scissorhands_English_Radio_Mix_Ricky_Martin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Livin' la Vida Loca - Spanish Version",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/14_Livin'_la_Vida_Loca_-_Spanish_Version_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Livin' la vida loca (Spanish)",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/15_Livin'_la_vida_loca_(Spanish)_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Livin' La Vida Loca",
+      "artist": "Antonio Banderas & Eddie Murphy",
+      "has_synced": true,
+      "path": "select/16_Livin'_La_Vida_Loca_Antonio_Banderas_&_Eddie_Murphy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Livin La Vida Loca",
+      "artist": "Eddie Murphy and Antonio Bande",
+      "has_synced": true,
+      "path": "select/17_Livin_La_Vida_Loca_Eddie_Murphy_and_Antonio_Bande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vida Loca",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": false,
+      "path": "select/pl_01_Vida_Loca_CA7RIEL_&_Paco_Amoroso.txt"
+    }
+  ]
+}
